@@ -1,0 +1,13 @@
+{
+  "name": "xoom-codeschool-js-1",
+  "version": "0.0.1",
+  "description": "",
+  "scripts": {
+    "start": "node node_modules/.bin/reveal-md slides.md --theme league"
+  },
+  "author": "jossemarGT <hello@jossemargt.com>",
+  "license": "MIT",
+  "dependencies": {
+    "reveal-md": "0.0.19"
+  }
+}
